@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "quick-try": "node output/quicktryHelper.js",
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.20",
+    "typescript": "^5.3.3"
+  }
+}
